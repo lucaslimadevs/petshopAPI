@@ -1,0 +1,9 @@
+C:\Git_lucaslimadevs\petshop_API\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.deps.json
+C:\Git_lucaslimadevs\petshop_API\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Git_lucaslimadevs\petshop_API\Domain.Entities\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Git_lucaslimadevs\petshop_API\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csprojAssemblyReference.cache
+C:\Git_lucaslimadevs\petshop_API\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfoInputs.cache
+C:\Git_lucaslimadevs\petshop_API\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.AssemblyInfo.cs
+C:\Git_lucaslimadevs\petshop_API\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Git_lucaslimadevs\petshop_API\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Git_lucaslimadevs\petshop_API\Domain.Entities\obj\Debug\netcoreapp3.1\Domain.Entities.pdb

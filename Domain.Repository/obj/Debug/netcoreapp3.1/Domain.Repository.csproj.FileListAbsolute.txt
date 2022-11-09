@@ -1,0 +1,14 @@
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\bin\Debug\netcoreapp3.1\Domain.Repository.deps.json
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\bin\Debug\netcoreapp3.1\Domain.Repository.dll
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\bin\Debug\netcoreapp3.1\Domain.Repository.pdb
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\bin\Debug\netcoreapp3.1\Domain.Infraestructure.dll
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\bin\Debug\netcoreapp3.1\Domain.Infraestructure.pdb
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\obj\Debug\netcoreapp3.1\Domain.Repository.csprojAssemblyReference.cache
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\obj\Debug\netcoreapp3.1\Domain.Repository.AssemblyInfoInputs.cache
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\obj\Debug\netcoreapp3.1\Domain.Repository.AssemblyInfo.cs
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\obj\Debug\netcoreapp3.1\Domain.Repository.csproj.CoreCompileInputs.cache
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\obj\Debug\netcoreapp3.1\Domain.Repository.csproj.CopyComplete
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\obj\Debug\netcoreapp3.1\Domain.Repository.dll
+C:\Git_lucaslimadevs\petshop_API\Domain.Repository\obj\Debug\netcoreapp3.1\Domain.Repository.pdb
